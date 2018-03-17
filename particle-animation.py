@@ -4,7 +4,7 @@ import matplotlib.animation as animation
 
 fig, ax = plt.subplots()
 
-circle, = ax.plot([], [], 'bo', ms=10, animated=True)
+circle, = ax.plot([], [], 'bo', ms=10)
 coord = np.array([5.,5.])
 
 def init():
