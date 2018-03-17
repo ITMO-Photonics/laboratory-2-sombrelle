@@ -1,1 +1,1 @@
-# math-comp-tech-lab2
+# Laboratory 2
